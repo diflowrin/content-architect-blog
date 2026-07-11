@@ -1,0 +1,25 @@
+{{- $destination := .Destination -}}
+{{- $fragment := "" -}}
+{{- if in $destination "#" -}}
+    {{- $parts := split $destination "#" -}}
+    {{- $destination = index $parts 0 -}}
+    {{- $fragment = index $parts 1 -}}
+{{- end -}}
+{{- if strings.HasSuffix $destination ".md" -}}
+    {{- $target := .Page.GetPage $destination -}}
+    {{- if not $target -}}
+        {{- $target = .Page.Site.GetPage $destination -}}
+    {{- end -}}
+    {{- with $target -}}
+        {{- $destination = .RelPermalink -}}
+        {{- if $fragment -}}
+            {{- $destination = printf "%s#%s" $destination $fragment -}}
+        {{- end -}}
+    {{- end -}}
+{{- else -}}
+    {{- with dict "Path" $destination "Resources" .Page.Resources | partial "function/resource.html" -}}
+        {{- $destination = .RelPermalink -}}
+    {{- end -}}
+{{- end -}}
+{{- $options := dict "Destination" $destination "Title" .Title "Content" .Text -}}
+{{- partial "plugin/a.html" $options -}}
