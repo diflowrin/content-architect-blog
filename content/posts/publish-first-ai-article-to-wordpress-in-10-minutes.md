@@ -15,7 +15,7 @@ This is the hands-on tutorial: from a fresh install to a fully illustrated, SEO-
    - [OpenRouter](https://openrouter.ai) → one key that unlocks hundreds of models
 3. **The app:** install [SEO Content Architect from the Microsoft Store](https://apps.microsoft.com/detail/9NL3GZLPH01Z) (Windows 10/11). The 15-day trial with direct publishing activates automatically on first launch — no card required.
 
-> **Why your own API key?** You pay the AI provider directly — typically **1–15 cents per full article** — with no per-word markup. The full economics are in [BYOK vs SaaS pricing](real-cost-of-ai-generated-articles-byok-vs-saas.md).
+> **Why your own API key?** You pay the AI provider directly — typically **1–25 cents to 1$ per full article** — with no per-word markup. The full economics are in [BYOK vs SaaS pricing](real-cost-of-ai-generated-articles-byok-vs-saas.md).
 
 ## Step 1 — Add Your AI Key (1 minute)
 
@@ -29,9 +29,9 @@ Open **Settings** in the app, paste your Gemini (or OpenRouter/OpenAI/Claude) ke
 
 **Optional but recommended:** install the free bundled *SEO Architect Helper* plugin on your site. It lets the app write meta title and meta description directly into **Yoast SEO, SEOPress, or SiteSEO** fields — zero configuration, with its own connection test.
 
-## Step 3 — Generate the Article (3 minutes)
+## Step 3 — Generate the Article (3-5 minutes)
 
-Create a new article and give it a topic — a keyword works best (e.g. *best budget espresso machines under $300*). Recommended first-run settings:
+Create a new article and give it a topic — a keyword or link works best (e.g. *best budget espresso machines under $300*). Recommended first-run settings:
 
 - **Keyword research: on** — Perplexity Sonar pulls main keywords, long-tails, and semantic phrases into the generation automatically ([how AI keyword research works](how-to-do-keyword-research-with-ai-perplexity-sonar.md))
 - **High Quality Mode: on**, word count target ~1,200–1,500
