@@ -71,9 +71,6 @@ The whole flow — article to 10 scheduled native posts — takes minutes. And b
 
 ## FAQ
 
-**Isn't posting the same content everywhere spammy?**
-Not if each piece is native to its format and platform. A carousel, a thread, and a video from the same article are three different experiences.
-
 **How long does automated repurposing take?**
 With an article-to-social pipeline: ~5–10 minutes per article to generate, review, and schedule the full set.
 
