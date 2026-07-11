@@ -6,7 +6,7 @@ Hugo source for the [SEO Content Architect](https://content-architect.ns5.club) 
 
 ## Stack
 
-- [Hugo](https://gohugo.io/) (extended) with the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme
+- [Hugo](https://gohugo.io/) (extended) 
 - Deployed automatically to GitHub Pages via GitHub Actions on every push to `main`
 
 ## Local development
