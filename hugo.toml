@@ -68,6 +68,8 @@ Github = "https://github.com/diflowrin"
 RSS = true
 
 [params.page]
+lightgallery = true
+
 [params.page.toc]
 enable = true
 keepStatic = false
@@ -83,6 +85,7 @@ Twitter = true
 Facebook = true
 Linkedin = true
 Reddit = true
+Telegram = true
 
 [params.page.comment]
 enable = false
