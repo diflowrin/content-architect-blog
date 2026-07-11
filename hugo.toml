@@ -1,0 +1,81 @@
+baseURL = "https://diflowrin.github.io/content-architect-blog/"
+locale = "en-us"
+title = "SEO Content Architect Blog"
+theme = "PaperMod"
+timeZone = "Europe/Bucharest"
+enableRobotsTXT = true
+
+[pagination]
+pagerSize = 10
+
+[minify]
+disableXML = true
+
+[params]
+env = "production"
+description = "Guides, comparisons, and tutorials on AI content creation, WordPress automation, and social media repurposing — from the makers of SEO Content Architect."
+keywords = ["ai content generator for wordpress", "ai article writer", "wordpress content automation", "ai seo content", "content repurposing"]
+author = "SEO Content Architect"
+defaultTheme = "auto"
+ShowReadingTime = true
+ShowShareButtons = true
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+ShowToc = true
+ShowRssButtonInSectionTermList = true
+
+[params.homeInfoParams]
+Title = "SEO Content Architect Blog"
+Content = """
+Guides, comparisons, and tutorials on **AI content creation, WordPress automation, and social media repurposing** — written and published with [SEO Content Architect](https://content-architect.ns5.club), the AI content & social engine for WordPress.
+Every article here is produced with the tool it describes — see a full site built the same way at [en.ns5.club](https://en.ns5.club).
+"""
+
+[[params.socialIcons]]
+name = "other"
+title = "Official Website"
+url = "https://content-architect.ns5.club"
+
+[[params.socialIcons]]
+name = "microsoft"
+title = "Get it on the Microsoft Store"
+url = "https://apps.microsoft.com/detail/9NL3GZLPH01Z"
+
+[[params.socialIcons]]
+name = "github"
+title = "GitHub"
+url = "https://github.com/diflowrin"
+
+[[params.socialIcons]]
+name = "rss"
+title = "RSS Feed"
+url = "index.xml"
+
+[menu]
+[[menu.main]]
+identifier = "posts"
+name = "Articles"
+url = "/posts/"
+weight = 10
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 20
+[[menu.main]]
+identifier = "website"
+name = "Website ↗"
+url = "https://content-architect.ns5.club"
+weight = 30
+
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
+[markup.goldmark.renderHooks.link]
+useEmbedded = "fallback"
+[markup.tableOfContents]
+startLevel = 2
+endLevel = 3
+
+[outputs]
+home = ["HTML", "RSS"]
