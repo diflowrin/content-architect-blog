@@ -1,9 +1,12 @@
 baseURL = "https://diflowrin.github.io/content-architect-blog/"
-locale = "en-us"
+languageCode = "en"
+defaultContentLanguage = "en"
+locale = "en-US"
 title = "SEO Content Architect Blog"
-theme = "PaperMod"
+theme = "LoveIt"
 timeZone = "Europe/Bucharest"
 enableRobotsTXT = true
+enableEmoji = true
 
 [pagination]
 pagerSize = 10
@@ -12,70 +15,130 @@ pagerSize = 10
 disableXML = true
 
 [params]
-env = "production"
 description = "Guides, comparisons, and tutorials on AI content creation, WordPress automation, and social media repurposing — from the makers of SEO Content Architect."
 keywords = ["ai content generator for wordpress", "ai article writer", "wordpress content automation", "ai seo content", "content repurposing"]
-author = "SEO Content Architect"
-defaultTheme = "auto"
-ShowReadingTime = true
-ShowShareButtons = true
-ShowBreadCrumbs = true
-ShowPostNavLinks = true
-ShowToc = true
-ShowRssButtonInSectionTermList = true
+images = []
 
-[params.homeInfoParams]
-Title = "SEO Content Architect Blog"
-Content = """
-Guides, comparisons, and tutorials on **AI content creation, WordPress automation, and social media repurposing** — written and published with [SEO Content Architect](https://content-architect.ns5.club), the AI content & social engine for WordPress.
-Every article here is produced with the tool it describes — see a full site built the same way at [en.ns5.club](https://en.ns5.club).
-"""
+[params.author]
+name = "SEO Content Architect"
 
-[[params.socialIcons]]
-name = "other"
-title = "Official Website"
-url = "https://content-architect.ns5.club"
+[params.header]
+[params.header.title]
+name = "SEO Content Architect"
+pre = ""
+post = ""
 
-[[params.socialIcons]]
-name = "microsoft"
-title = "Get it on the Microsoft Store"
-url = "https://apps.microsoft.com/detail/9NL3GZLPH01Z"
+[params.footer]
+enable = true
+custom = ""
+hugo = false
+copyright = true
+author = true
+since = 2026
+license = ""
 
-[[params.socialIcons]]
-name = "github"
-title = "GitHub"
-url = "https://github.com/diflowrin"
+[params.section]
+paginate = 10
+dateFormat = "Jan 02"
+rss = 10
 
-[[params.socialIcons]]
-name = "rss"
-title = "RSS Feed"
-url = "index.xml"
+[params.list]
+paginate = 10
+dateFormat = "Jan 02"
+rss = 10
+
+[params.home]
+rss = 10
+
+[params.home.profile]
+enable = true
+title = "SEO Content Architect Blog"
+subtitle = "Guides, comparisons, and tutorials on AI content creation, WordPress automation, and social media repurposing."
+typeit = true
+social = true
+disclaimer = "Every article here is produced with the tool it describes — see a full site built the same way at [en.ns5.club](https://en.ns5.club)."
+
+[params.home.posts]
+enable = true
+paginate = 6
+
+[params.social]
+Website = "https://content-architect.ns5.club"
+Github = "https://github.com/diflowrin"
+RSS = true
+
+[params.page]
+[params.page.toc]
+enable = true
+keepStatic = false
+auto = true
+
+[params.page.code]
+copy = true
+maxShownLines = 50
+
+[params.page.share]
+enable = true
+Twitter = true
+Facebook = true
+Linkedin = true
+Reddit = true
+
+[params.page.comment]
+enable = false
+
+[params.typeit]
+speed = 100
+pauseDelay = 1500
+
+[params.search]
+enable = true
+type = "lunr"
+contentLength = 4000
+placeholder = ""
+maxResultLength = 10
+snippetLength = 30
+highlightTag = "em"
+useHugoContentLength = false
 
 [menu]
 [[menu.main]]
 identifier = "posts"
+pre = ""
+post = ""
 name = "Articles"
 url = "/posts/"
-weight = 10
+weight = 1
 [[menu.main]]
 identifier = "tags"
+pre = ""
+post = ""
 name = "Tags"
 url = "/tags/"
-weight = 20
+weight = 2
 [[menu.main]]
 identifier = "website"
-name = "Website ↗"
+pre = ""
+post = ""
+name = "Website"
 url = "https://content-architect.ns5.club"
-weight = 30
+weight = 3
 
 [markup]
+[markup.goldmark]
 [markup.goldmark.renderer]
 unsafe = true
 [markup.goldmark.renderHooks.link]
 useEmbedded = "fallback"
+[markup.highlight]
+codeFences = true
+guessSyntax = true
+lineNos = true
+lineNumbersInTable = true
+noClasses = false
 [markup.tableOfContents]
 startLevel = 2
 endLevel = 3
 
 [outputs]
-home = ["HTML", "RSS"]
+home = ["HTML", "RSS", "JSON"]
