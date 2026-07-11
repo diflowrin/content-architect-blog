@@ -3,10 +3,10 @@ title: "How to Write SEO Articles with AI Without Getting Penalized by Google"
 date: 2026-07-10T09:00:00+03:00
 description: "What Google's AI content policy actually says, the 5 mistakes that get sites penalized, and a safe, repeatable workflow for AI articles that rank."
 tags: ["AI Content", "SEO", "Google"]
-featuredImage: "feature.png"
+featuredImage: "feature.webp"
 ---
 
-![How to Write SEO Articles with AI Without Getting Penalized by Google](feature.png)
+![How to Write SEO Articles with AI Without Getting Penalized by Google](feature.webp)
 
 AI-generated content is everywhere in 2026 — and so is the fear of Google penalties. The good news: Google does **not** penalize content for being written with AI. It penalizes content that is unhelpful, thin, or created purely to manipulate rankings. In this guide, you'll learn exactly what Google's policy says, which mistakes actually get sites deindexed, and a practical workflow for producing AI-assisted articles that rank and keep ranking.
 
