@@ -56,7 +56,7 @@ title = "SEO Content Architect Blog"
 subtitle = "Guides, comparisons, and tutorials on AI content creation, WordPress automation, and social media repurposing."
 typeit = true
 social = true
-disclaimer = "Every article here is produced with the tool it describes — see a full site built the same way at [en.ns5.club](https://en.ns5.club)."
+disclaimer = "See a full site built with SEO Content Architect at [en.ns5.club](https://en.ns5.club)."
 
 [params.home.posts]
 enable = true
