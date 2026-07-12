@@ -1,7 +1,7 @@
 ---
 title: "Tutorial: Publish Your First AI Article to WordPress in 10 Minutes"
 date: 2026-07-01T09:00:00+03:00
-description: "Step-by-step: from a fresh install to a fully illustrated, SEO-optimized article live on your WordPress site — no coding, no theme edits."
+description: "Publish your first AI-generated article to WordPress in 10 minutes: connect your site, add an API key, generate, review, and publish — step by step."
 tags: ["Tutorial", "WordPress", "Getting Started"]
 ---
 
@@ -15,7 +15,7 @@ This is the hands-on tutorial: from a fresh install to a fully illustrated, SEO-
    - [OpenRouter](https://openrouter.ai) → one key that unlocks hundreds of models
 3. **The app:** install [SEO Content Architect from the Microsoft Store](https://apps.microsoft.com/detail/9NL3GZLPH01Z) (Windows 10/11). The 15-day trial with direct publishing activates automatically on first launch — no card required.
 
-> **Why your own API key?** You pay the AI provider directly — typically **1–25 cents to 1$ per full article** — with no per-word markup. The full economics are in [BYOK vs SaaS pricing](real-cost-of-ai-generated-articles-byok-vs-saas.md).
+> **Why your own API key?** You pay the AI provider directly — typically **a few cents to $1 per full article** — with no per-word markup. The full economics are in [BYOK vs SaaS pricing](real-cost-of-ai-generated-articles-byok-vs-saas.md).
 
 ## Step 1 — Add Your AI Key (1 minute)
 

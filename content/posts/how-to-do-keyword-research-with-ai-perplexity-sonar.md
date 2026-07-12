@@ -1,7 +1,7 @@
 ---
 title: "How to Do Keyword Research with AI: A Practical Guide (Perplexity Sonar Workflow)"
 date: 2026-07-08T09:00:00+03:00
-description: "A practical AI keyword research workflow: main keywords, long-tail variations, semantic NLP phrases, and FAQ questions — fed straight into content generation."
+description: "A practical AI keyword research workflow with Perplexity Sonar: main keywords, long-tails, semantic phrases, and question keywords — fed straight into your articles."
 tags: ["Keyword Research", "SEO", "Perplexity"]
 ---
 
@@ -90,7 +90,7 @@ Cluster before you generate, especially if you're using a [bulk generation workf
 Different jobs. Sonar excels at live-web research, intent analysis, and semantic expansion; Ahrefs/Semrush excel at volume, difficulty, and backlink data. Hybrid workflows beat either alone.
 
 **Can I do AI keyword research for free?**
-Perplexity's API is pay-per-use and cheap at blog scale (fractions of a cent per query with your own key — the BYOK model explained [here](real-cost-of-ai-generated-articles-byok-vs-saas.md)).
+Perplexity's API is pay-per-use and cheap at blog scale — fractions of a cent per query with your own key, as explained in [the BYOK cost breakdown](real-cost-of-ai-generated-articles-byok-vs-saas.md).
 
 **Does this work for non-English keywords?**
 Yes — Sonar handles 50+ languages well, which makes it particularly strong for low-competition, non-English niches.

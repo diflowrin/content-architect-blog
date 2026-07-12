@@ -1,7 +1,7 @@
 ---
 title: "The Complete Guide to Automating a WordPress Blog from Scratch (2026)"
 date: 2026-07-09T09:00:00+03:00
-description: "From an empty WordPress install to a content pipeline that researches, writes, illustrates, publishes, and distributes on autopilot."
+description: "Step-by-step guide to automating a WordPress blog in 2026: AI article generation, images, scheduled publishing, and social distribution — no server or coding required."
 tags: ["WordPress", "Automation", "AI Content"]
 featuredImage: "feature.webp"
 ---
@@ -18,7 +18,7 @@ Full automation covers five stages:
 4. **Publishing** — the article lands in WordPress via the REST API, on a schedule
 5. **Distribution** — the article becomes social posts, carousels, and videos
 
-Most tools automate one or two stages. The setup below automates all five from a single desktop app — no server load on your WordPress hosting, because everything runs locally on your PC.
+Most [AI tools for WordPress](best-ai-tools-for-wordpress-2026.md) automate one or two stages. The setup below automates all five from a single desktop app — no server load on your WordPress hosting, because everything runs locally on your PC.
 
 ## Prerequisites
 
