@@ -3,6 +3,7 @@ title: "Tutorial: Publish Your First AI Article to WordPress in 10 Minutes"
 date: 2026-07-01T09:00:00+03:00
 description: "Publish your first AI-generated article to WordPress in 10 minutes: connect your site, add an API key, generate, review, and publish — step by step."
 tags: ["Tutorial", "WordPress", "Getting Started"]
+featuredImage: "feature.webp"
 ---
 
 This is the hands-on tutorial: from a fresh install to a fully illustrated, SEO-optimized article live on your WordPress site, in about ten minutes. No theme edits, no server configuration, no coding — just the WordPress REST API and one desktop app. Follow along step by step.
