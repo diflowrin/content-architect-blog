@@ -3,6 +3,7 @@ title: "How to Turn One Blog Post into 10 Social Media Posts (Content Repurposin
 date: 2026-07-07T09:00:00+03:00
 description: "Turn one blog post into 10 social media posts: the exact repurposing map, per-platform formats, and how to automate carousels, videos, and scheduling."
 tags: ["Content Repurposing", "Social Media", "Carousels"]
+featuredImage: "feature.webp"
 ---
 
 You spent hours getting a blog post researched, written, and published — and then shared one link on X and moved on. That's the most common content marketing mistake in 2026. A single good article contains material for **10 or more social posts** across formats and platforms. This guide gives you the exact repurposing map, per-platform formats, and how to automate the whole thing so repurposing takes minutes instead of a day.
@@ -15,6 +16,8 @@ You spent hours getting a blog post researched, written, and published — and t
 - **SEO and social compound.** Social distribution drives early engagement signals and referral traffic to the article.
 
 ## The 10-Post Repurposing Map
+
+![The 10-post repurposing map: short video, quote card, Instagram carousel, Twitter thread, infographic, poll, Facebook update, LinkedIn article, email newsletter, and behind-the-scenes snippet — all from one blog post](10-post-repurposing-map.webp)
 
 Here's how one 1,500-word article breaks down:
 
@@ -34,6 +37,8 @@ Here's how one 1,500-word article breaks down:
 One article → two weeks of social content, each piece native to its platform.
 
 ## Format Deep-Dives
+
+![Ten ways to repurpose a blog post: social carousels, infographics, tweet threads, quote cards, short videos, stories, checklists, an email newsletter, and platform reposts](blog-post-repurposing-tactics.webp)
 
 ### Carousels: the highest-ROI format
 
