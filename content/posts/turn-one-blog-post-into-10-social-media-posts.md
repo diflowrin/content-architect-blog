@@ -45,6 +45,8 @@ Carousels consistently earn top engagement on Instagram and LinkedIn because eac
 
 Keep branding consistent: same fonts, colors, logo, and handle on every carousel. This is exactly what brand presets automate — set your identity once, and every carousel comes out on-brand.
 
+Format matters too: portrait 4:5 (1080×1350) claims the most feed real estate on Instagram, Facebook, and LinkedIn; keep square 1:1 for X and mixed-platform reuse; 9:16 is for Stories, Reels, TikTok, and Shorts, not the feed.
+
 ### Short videos without filming
 
 A 30–60 second script generated from the article + branded slides with transitions + a music track = a publishable short video, no camera required. It won't replace personality-driven video, but for topic-driven niches it reliably earns discovery-feed reach on TikTok, Reels, and Shorts.
@@ -57,8 +59,8 @@ Take the article intro as the hook post, then one post per H2, then a closing po
 
 Manual repurposing for 15 platforms is a part-time job — which is why most people never do it, and why classic [social schedulers](best-ai-tools-for-wordpress-2026.md) don't solve it either: they start only after the content exists. The automated version, as implemented in [SEO Content Architect](https://content-architect.ns5.club):
 
-1. **Article → Social Studio.** Point it at any published article, URL, or topic. It generates branded carousels and short-form videos in seconds — templates, color palettes, fonts, backgrounds, audio, and slide transitions included. Export PNG/ZIP/MP4, or send straight to distribution.
-2. **AI writes the post itself.** Title, caption, hashtags, and first comment — generated per platform from the article or the carousel.
+1. **Article → Social Studio.** Point it at any published article, URL, or topic. It generates branded carousels and short-form videos in seconds — templates, color palettes, fonts, backgrounds, audio, and slide transitions included. Every asset comes out in the right native format: portrait 4:5 (1080×1350) for Instagram, Facebook, and LinkedIn feeds, square 1:1 (1080×1080), story 9:16 (1080×1920) for Reels, TikTok, and YouTube Shorts, or landscape 16:9 (1920×1080) for YouTube and X — or let Auto pick the format per destination. Export PNG/ZIP/MP4, or send straight to distribution.
+2. **AI writes the post copy.** Title, post text, hashtags, and a first comment — one clean set generated from the article or the carousel, shared across all networks (adapt the voice per platform in the editor when it matters). It also writes descriptive **alt text for every slide**, so carousels ship accessible by default — a discoverability and accessibility box most manual workflows never tick.
 3. **Distribution Hub schedules everywhere.** Compose once, schedule across **15 platforms** — Instagram, TikTok, X/Twitter, Facebook, LinkedIn, YouTube, Threads, Pinterest, Reddit, Bluesky, Telegram, Discord, Snapchat, WhatsApp, and Google Business — from a visual content calendar, with unified analytics tracking what works.
 
 The whole flow — article to 10 scheduled native posts — takes minutes. And because the same app [generates and publishes the articles](complete-guide-automating-a-wordpress-blog-from-scratch.md) in the first place, the pipeline is end-to-end: idea → article → WordPress → social.
