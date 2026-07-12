@@ -3,6 +3,7 @@ title: "How to Do Keyword Research with AI: A Practical Guide (Perplexity Sonar 
 date: 2026-07-08T09:00:00+03:00
 description: "A practical AI keyword research workflow with Perplexity Sonar: main keywords, long-tails, semantic phrases, and question keywords — fed straight into your articles."
 tags: ["Keyword Research", "SEO", "Perplexity"]
+featuredImage: "feature.webp"
 ---
 
 Traditional keyword tools show you search volumes from a database. AI-powered keyword research does something different: it reasons about *intent*, clusters related queries, and surfaces the long-tail and semantic phrases that databases miss — using live web data. This guide shows a practical AI keyword research workflow built on **Perplexity Sonar**, and how to feed the results directly into your content generation so keywords actually end up in the article.
@@ -36,6 +37,8 @@ Terms that co-occur in top-ranking content: *search intent*, *keyword clustering
 The People-Also-Ask style questions: *is ai keyword research accurate?*, *can ai replace keyword tools?* These map 1:1 to an FAQ section, which is prime featured-snippet real estate.
 
 ## The Perplexity Sonar Workflow, Step by Step
+
+![The 4-step AI keyword research workflow with Perplexity Sonar: identify topics and questions, analyze competition and intent, discover long-tail keywords, create the content strategy](key-word-research-with-perplexity.webp)
 
 ### Step 1: Start from a seed topic
 
