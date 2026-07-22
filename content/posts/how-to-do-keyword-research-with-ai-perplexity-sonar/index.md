@@ -1,7 +1,8 @@
 ---
 title: "How to Do Keyword Research with AI: A Practical Guide (Perplexity Sonar Workflow)"
+seoTitle: "How to Do Keyword Research with AI (Perplexity Sonar Guide)"
 date: 2026-07-08T09:00:00+03:00
-description: "A practical AI keyword research workflow with Perplexity Sonar: main keywords, long-tails, semantic phrases, and question keywords — fed straight into your articles."
+description: "A practical AI keyword research workflow with Perplexity Sonar: main keywords, long-tails, semantic phrases, and question keywords — fed into your articles."
 tags: ["Keyword Research", "SEO", "Perplexity"]
 featuredImage: "feature.webp"
 ---

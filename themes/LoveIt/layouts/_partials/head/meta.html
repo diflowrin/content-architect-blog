@@ -1,6 +1,19 @@
 {{- $params := .Scratch.Get "params" -}}
 
-<meta name="Description" content="{{ $params.description | default .Site.Params.description }}">
+{{- /* Unique meta description per page: explicit front-matter wins; taxonomy/term pages get a generated unique description to avoid duplicates; everything else falls back to the site description. */ -}}
+{{- $desc := $params.description -}}
+{{- if not $desc -}}
+    {{- if eq .Kind "term" -}}
+        {{- $desc = printf "%s guides, comparisons, and tutorials from SEO Content Architect — AI content creation, WordPress automation, and social media repurposing." .Title -}}
+    {{- else if eq .Kind "taxonomy" -}}
+        {{- $desc = printf "Browse articles by %s on the SEO Content Architect blog: guides on AI content, WordPress automation, and social media repurposing." (.Data.Singular | default (lower .Title)) -}}
+    {{- else if eq .Kind "section" -}}
+        {{- $desc = "Every article on the SEO Content Architect blog: guides, comparisons, and tutorials on AI content, WordPress automation, and social repurposing." -}}
+    {{- else -}}
+        {{- $desc = .Site.Params.description -}}
+    {{- end -}}
+{{- end -}}
+<meta name="Description" content="{{ $desc }}">
 
 {{- partial "opengraph.html" . -}}
 {{- partial "twitter_cards.html" . -}}

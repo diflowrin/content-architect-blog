@@ -1,7 +1,8 @@
 ---
 title: "Cheap, Balanced, or Premium: How to Set Up AI Models in SEO Content Architect for Any Budget"
+seoTitle: "How to Set Up AI Models for Any Budget: Cheap to Premium"
 date: 2026-07-15T09:00:00+03:00
-description: "Pick the right AI models in SEO Content Architect for your budget: cents per article with GPT-4o mini + P-Image, or premium output with Claude Sonnet and Nano Banana 2."
+description: "Pick AI models in SEO Content Architect for your budget: cents per article with GPT-4o mini + P-Image, or premium output with Claude Sonnet and Nano Banana 2."
 tags: ["AI Models", "Pricing", "BYOK"]
 featuredImage: "feature.webp"
 ---

@@ -1,5 +1,6 @@
 ---
 title: "How to Turn One Blog Post into 10 Social Media Posts (Content Repurposing Guide)"
+seoTitle: "Turn One Blog Post into 10 Social Media Posts (Guide)"
 date: 2026-07-07T09:00:00+03:00
 description: "Turn one blog post into 10 social media posts: the exact repurposing map, per-platform formats, and how to automate carousels, videos, and scheduling."
 tags: ["Content Repurposing", "Social Media", "Carousels"]

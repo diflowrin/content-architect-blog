@@ -16,6 +16,11 @@
             {{- end -}}
         </h2>
 
+        {{- /* Intro / description content from the term's _index.md, if any */ -}}
+        {{- with .Content -}}
+            <div class="content term-intro">{{ . }}</div>
+        {{- end -}}
+
         {{- /* Paginate */ -}}
         {{- if .Pages -}}
             {{- $pages := .Pages.GroupByDate "2006" -}}

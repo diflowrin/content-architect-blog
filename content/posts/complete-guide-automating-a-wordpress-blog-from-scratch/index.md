@@ -1,7 +1,8 @@
 ---
 title: "The Complete Guide to Automating a WordPress Blog from Scratch (2026)"
+seoTitle: "How to Automate a WordPress Blog from Scratch (2026 Guide)"
 date: 2026-07-09T09:00:00+03:00
-description: "Step-by-step guide to automating a WordPress blog in 2026: AI article generation, images, scheduled publishing, and social distribution — no server or coding required."
+description: "Step-by-step guide to automating a WordPress blog in 2026: AI article generation, images, scheduled publishing, and social distribution — no coding required."
 tags: ["WordPress", "Automation", "AI Content"]
 featuredImage: "feature.webp"
 ---

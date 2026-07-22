@@ -1,5 +1,6 @@
 ---
 title: "Gemini vs GPT vs Claude: Which AI Model Is Best for Writing SEO Content? (2026)"
+seoTitle: "Gemini vs GPT vs Claude: Best AI Model for SEO Writing (2026)"
 date: 2026-07-06T09:00:00+03:00
 description: "Gemini vs GPT vs Claude for SEO writing in 2026: strengths, weaknesses, real per-article costs, and which AI model to pick for each content task."
 tags: ["AI Models", "Gemini", "GPT", "Claude"]

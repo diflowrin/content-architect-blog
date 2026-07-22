@@ -1,5 +1,6 @@
 ---
 title: "How to Write SEO Articles with AI Without Getting Penalized by Google"
+seoTitle: "Write SEO Articles with AI Without Google Penalties"
 date: 2026-07-10T09:00:00+03:00
 description: "Google doesn't penalize AI content — it penalizes unhelpful content. The official policy, 5 mistakes that get sites deindexed, and a safe AI writing workflow."
 tags: ["AI Content", "SEO", "Google"]
