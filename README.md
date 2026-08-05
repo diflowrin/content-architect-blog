@@ -1,6 +1,6 @@
 # SEO Content Architect Blog
 
-Hugo source for the [SEO Content Architect](https://content-architect.ns5.club) blog — guides on AI content creation, WordPress automation, and social media repurposing.
+Hugo source for the [SEO Content Architect]([https://content-architect.ns5.club](https://diflowrin.com/seo-content-architect/)) blog — guides on AI content creation, WordPress automation, and social media repurposing.
 
 **Live site:** https://diflowrin.github.io/content-architect-blog/
 
