@@ -7,7 +7,7 @@ tags: ["AI Models", "Pricing", "BYOK"]
 featuredImage: "feature.webp"
 ---
 
-Because [SEO Content Architect](https://content-architect.ns5.club) is a BYOK (bring-your-own-key) app, you don't buy a fixed "quality tier" — you dial cost against quality yourself, per article, by choosing which text and image models run the job. The same pipeline can produce an article for **a few cents** or for **$1–2**, and the difference is entirely which models you point it at. This guide gives you three ready-made setups — Budget, Balanced, and Premium — so you can match every article to what it's actually worth.
+Because [SEO Content Architect](https://diflowrin.com/seo-content-architect/) is a BYOK (bring-your-own-key) app, you don't buy a fixed "quality tier" — you dial cost against quality yourself, per article, by choosing which text and image models run the job. The same pipeline can produce an article for **a few cents** or for **$1–2**, and the difference is entirely which models you point it at. This guide gives you three ready-made setups — Budget, Balanced, and Premium — so you can match every article to what it's actually worth.
 
 ## The One Rule Before Any Model Choice: Set Length to "Long"
 
@@ -87,4 +87,4 @@ Yes — model choice is per generation, so a single publishing pipeline can run 
 
 ---
 
-*Dial cost against quality on every article: [SEO Content Architect](https://content-architect.ns5.club) is a Windows desktop app where you generate unlimited SEO articles with your own GPT, Claude, Gemini, OpenRouter, and Replicate keys. [Download free from the Microsoft Store](https://apps.microsoft.com/detail/9NL3GZLPH01Z).*
+*Dial cost against quality on every article: [SEO Content Architect](https://diflowrin.com/seo-content-architect/) is a Windows desktop app where you generate unlimited SEO articles with your own GPT, Claude, Gemini, OpenRouter, and Replicate keys. [Download free from the Microsoft Store](https://apps.microsoft.com/detail/9NL3GZLPH01Z).*

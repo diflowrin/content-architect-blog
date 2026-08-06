@@ -56,14 +56,14 @@ title = "SEO Content Architect Blog"
 subtitle = "Guides, comparisons, and tutorials on AI content creation, WordPress automation, and social media repurposing."
 typeit = true
 social = true
-disclaimer = "Build your own automated blog with <a href=\"https://content-architect.ns5.club\" target=\"_blank\" rel=\"noopener\">SEO Content Architect</a> — AI writing, images, and WordPress publishing on autopilot."
+disclaimer = "Build your own automated blog with <a href=\"https://diflowrin.com/seo-content-architect/\" target=\"_blank\" rel=\"noopener\">SEO Content Architect</a> — AI writing, images, and WordPress publishing on autopilot."
 
 [params.home.posts]
 enable = true
 paginate = 6
 
 [params.social]
-Website = "https://content-architect.ns5.club"
+Website = "https://diflowrin.com/seo-content-architect/"
 Github = "https://github.com/diflowrin"
 RSS = true
 
@@ -124,7 +124,7 @@ identifier = "website"
 pre = ""
 post = ""
 name = "Website"
-url = "https://content-architect.ns5.club"
+url = "https://diflowrin.com/seo-content-architect/"
 weight = 3
 
 [markup]

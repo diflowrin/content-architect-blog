@@ -92,4 +92,4 @@ No — rankings attach to your published content, not the tool. Keep the same [q
 
 ---
 
-*Compare for yourself, free: [SEO Content Architect](https://content-architect.ns5.club) on the [Microsoft Store](https://apps.microsoft.com/detail/9NL3GZLPH01Z) — unlimited article generation with your own keys, no credit meters.*
+*Compare for yourself, free: [SEO Content Architect](https://diflowrin.com/seo-content-architect/) on the [Microsoft Store](https://apps.microsoft.com/detail/9NL3GZLPH01Z) — unlimited article generation with your own keys, no credit meters.*

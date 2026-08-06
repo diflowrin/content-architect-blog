@@ -63,7 +63,7 @@ Take the article intro as the hook post, then one post per H2, then a closing po
 
 ## Automating the Pipeline
 
-Manual repurposing for 15 platforms is a part-time job — which is why most people never do it, and why classic [social schedulers](best-ai-tools-for-wordpress-2026.md) don't solve it either: they start only after the content exists. The automated version, as implemented in [SEO Content Architect](https://content-architect.ns5.club):
+Manual repurposing for 15 platforms is a part-time job — which is why most people never do it, and why classic [social schedulers](best-ai-tools-for-wordpress-2026.md) don't solve it either: they start only after the content exists. The automated version, as implemented in [SEO Content Architect](https://diflowrin.com/seo-content-architect/):
 
 1. **Article → Social Studio.** Point it at any published article, URL, or topic. It generates branded carousels and short-form videos in seconds — templates, color palettes, fonts, backgrounds, audio, and slide transitions included. Every asset comes out in the right native format: portrait 4:5 (1080×1350) for Instagram, Facebook, and LinkedIn feeds, square 1:1 (1080×1080), story 9:16 (1080×1920) for Reels, TikTok, and YouTube Shorts, or landscape 16:9 (1920×1080) for YouTube and X — or let Auto pick the format per destination. Export PNG/ZIP/MP4, or send straight to distribution.
 2. **AI writes the post copy.** Title, post text, hashtags, and a first comment — one clean set generated from the article or the carousel, shared across all networks (adapt the voice per platform in the editor when it matters). It also writes descriptive **alt text for every slide**, so carousels ship accessible by default — a discoverability and accessibility box most manual workflows never tick.
@@ -93,4 +93,4 @@ No — template-based generation with brand presets produces consistent, profess
 
 ---
 
-*Turn every article into a social campaign: [SEO Content Architect](https://content-architect.ns5.club) includes Social Studio (carousels + videos) and a 15-platform Distribution Hub. [Get it on the Microsoft Store](https://apps.microsoft.com/detail/9NL3GZLPH01Z) — 15-day trial included.*
+*Turn every article into a social campaign: [SEO Content Architect](https://diflowrin.com/seo-content-architect/) includes Social Studio (carousels + videos) and a 15-platform Distribution Hub. [Get it on the Microsoft Store](https://apps.microsoft.com/detail/9NL3GZLPH01Z) — 15-day trial included.*

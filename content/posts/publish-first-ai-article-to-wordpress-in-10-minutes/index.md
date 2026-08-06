@@ -91,4 +91,4 @@ Articles publish as standard WordPress posts (Gutenberg blocks/HTML), which ever
 
 ---
 
-*Ten minutes, one article, zero copy-paste: [download SEO Content Architect](https://apps.microsoft.com/detail/9NL3GZLPH01Z) and see the [full feature tour](https://content-architect.ns5.club).*
+*Ten minutes, one article, zero copy-paste: [download SEO Content Architect](https://apps.microsoft.com/detail/9NL3GZLPH01Z) and see the [full feature tour](https://diflowrin.com/seo-content-architect/).*

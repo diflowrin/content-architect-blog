@@ -7,7 +7,7 @@ tags: ["SEO", "Competitor Analysis", "Keyword Research"]
 featuredImage: "feature.jpg"
 ---
 
-Most AI articles are written blind. You pick a keyword, generate 1,500 words, publish — and hope it's enough. But the pages already ranking on Google have quietly told you exactly what "enough" looks like: how long the article should be, which terms it must cover, which questions to answer, and how many headings and images the winners use. The new **SEO Analysis** page in [SEO Content Architect](https://content-architect.ns5.club) reads that signal for you. It crawls the current top-ranking pages for any keyword and turns them into concrete, copy-ready targets — then feeds those targets straight into article generation.
+Most AI articles are written blind. You pick a keyword, generate 1,500 words, publish — and hope it's enough. But the pages already ranking on Google have quietly told you exactly what "enough" looks like: how long the article should be, which terms it must cover, which questions to answer, and how many headings and images the winners use. The new **SEO Analysis** page in [SEO Content Architect](https://diflowrin.com/seo-content-architect/) reads that signal for you. It crawls the current top-ranking pages for any keyword and turns them into concrete, copy-ready targets — then feeds those targets straight into article generation.
 
 This guide explains what SEO Analysis does, the two ways to run it (a **Serper.dev** API key or **Perplexity**), and how to go from a keyword to a data-backed article in a couple of minutes.
 
@@ -130,4 +130,4 @@ SERPs don't change minute to minute, so caching lets you reopen a report instant
 
 ---
 
-*SEO research, article generation, and WordPress publishing in one pipeline: [SEO Content Architect](https://content-architect.ns5.club) is a Windows desktop app with built-in SEO Analysis powered by your own Serper.dev or Perplexity key. [Try it free](https://apps.microsoft.com/detail/9NL3GZLPH01Z) — article generation is free forever.*
+*SEO research, article generation, and WordPress publishing in one pipeline: [SEO Content Architect](https://diflowrin.com/seo-content-architect/) is a Windows desktop app with built-in SEO Analysis powered by your own Serper.dev or Perplexity key. [Try it free](https://apps.microsoft.com/detail/9NL3GZLPH01Z) — article generation is free forever.*

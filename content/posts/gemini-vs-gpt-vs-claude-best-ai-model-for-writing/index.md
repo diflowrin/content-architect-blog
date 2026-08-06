@@ -65,7 +65,7 @@ Benchmarks measure reasoning; SEO content lives or dies on different axes:
 
 ## The Multi-Model Strategy (What We Actually Do)
 
-Since [SEO Content Architect](https://content-architect.ns5.club) supports Gemini, GPT, Claude, and OpenRouter side by side with your own keys, the pattern that emerges from real usage:
+Since [SEO Content Architect](https://diflowrin.com/seo-content-architect/) supports Gemini, GPT, Claude, and OpenRouter side by side with your own keys, the pattern that emerges from real usage:
 
 - **Draft at volume** with Gemini Flash or a strong open model via OpenRouter
 - **Write pillar/money pages** with Claude
@@ -101,4 +101,4 @@ For straightforward informational articles, yes — especially via OpenRouter wh
 
 ---
 
-*Switch models per article, not per subscription: [SEO Content Architect](https://content-architect.ns5.club) supports Gemini, GPT, Claude, and all OpenRouter models with your own API keys. [Download on the Microsoft Store](https://apps.microsoft.com/detail/9NL3GZLPH01Z) — generation is free, forever.*
+*Switch models per article, not per subscription: [SEO Content Architect](https://diflowrin.com/seo-content-architect/) supports Gemini, GPT, Claude, and all OpenRouter models with your own API keys. [Download on the Microsoft Store](https://apps.microsoft.com/detail/9NL3GZLPH01Z) — generation is free, forever.*

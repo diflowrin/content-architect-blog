@@ -63,7 +63,7 @@ Cross-check the head terms in your volume tool of choice. Kill anything with int
 
 ### Step 4: Inject keywords into generation — automatically
 
-This is where most workflows leak value: keywords sit in a spreadsheet and never make it into the article. In [SEO Content Architect](https://content-architect.ns5.club), Perplexity Sonar research is a built-in pipeline step — main keywords, long-tail variations, and semantic phrases are researched per topic and **inserted directly into the article generation prompt**, so every article is written *around* its keyword set rather than having keywords sprinkled in afterwards.
+This is where most workflows leak value: keywords sit in a spreadsheet and never make it into the article. In [SEO Content Architect](https://diflowrin.com/seo-content-architect/), Perplexity Sonar research is a built-in pipeline step — main keywords, long-tail variations, and semantic phrases are researched per topic and **inserted directly into the article generation prompt**, so every article is written *around* its keyword set rather than having keywords sprinkled in afterwards.
 
 ### Step 5: Map keywords to structure
 
@@ -104,4 +104,4 @@ One main keyword (plus close variants), 3–8 long-tails as subheadings, and 10�
 
 ---
 
-*Keyword research, article generation, and WordPress publishing in one pipeline: [SEO Content Architect](https://content-architect.ns5.club) is a Windows desktop app with built-in Perplexity Sonar keyword research. [Try it free](https://apps.microsoft.com/detail/9NL3GZLPH01Z) — article generation is free forever.*
+*Keyword research, article generation, and WordPress publishing in one pipeline: [SEO Content Architect](https://diflowrin.com/seo-content-architect/) is a Windows desktop app with built-in Perplexity Sonar keyword research. [Try it free](https://apps.microsoft.com/detail/9NL3GZLPH01Z) — article generation is free forever.*

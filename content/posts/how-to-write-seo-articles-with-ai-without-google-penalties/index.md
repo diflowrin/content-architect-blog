@@ -44,7 +44,7 @@ Generating articles in bulk without checking what you've already published leads
 
 ## A Safe, Repeatable AI Content Workflow
 
-Here's the workflow we use ourselves — this blog is written and published with [SEO Content Architect](https://content-architect.ns5.club), an AI content desktop app for WordPress (yes, we [dogfood our own product](https://en.ns5.club)).
+Here's the workflow we use ourselves — this blog is written and published with [SEO Content Architect](https://diflowrin.com/seo-content-architect/), an AI content desktop app for WordPress (yes, we [dogfood our own product](https://en.ns5.club)).
 
 ### Step 1: Research keywords before writing
 
@@ -92,4 +92,4 @@ Yes — automation of *publishing* is not the risk; unreviewed content is. A com
 
 ---
 
-*This article was researched, drafted, and published with [SEO Content Architect](https://content-architect.ns5.club) — a Windows desktop app that generates SEO articles with Gemini, GPT, Claude, or OpenRouter using your own API keys, and publishes directly to WordPress. Article generation is [free forever](https://apps.microsoft.com/detail/9NL3GZLPH01Z); you only pay your AI provider for what you use.*
+*This article was researched, drafted, and published with [SEO Content Architect](https://diflowrin.com/seo-content-architect/) — a Windows desktop app that generates SEO articles with Gemini, GPT, Claude, or OpenRouter using your own API keys, and publishes directly to WordPress. Article generation is [free forever](https://apps.microsoft.com/detail/9NL3GZLPH01Z); you only pay your AI provider for what you use.*

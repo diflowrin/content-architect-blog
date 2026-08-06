@@ -92,11 +92,11 @@ Marginally: install from the Microsoft Store, paste an API key, connect WordPres
 Yes — store-distributed apps update automatically; you don't run an old binary forever.
 
 **What happens to my subscription if I stop paying?**
-In [SEO Content Architect](https://content-architect.ns5.club)'s case, the free tier is permanent: article generation and editing keep working forever; Premium features (publishing automation, Social Studio, Distribution Hub) pause until you resubscribe. Your data never leaves your machine either way.
+In [SEO Content Architect](https://diflowrin.com/seo-content-architect/)'s case, the free tier is permanent: article generation and editing keep working forever; Premium features (publishing automation, Social Studio, Distribution Hub) pause until you resubscribe. Your data never leaves your machine either way.
 
 **Can a desktop app automate publishing while I'm away?**
 Yes — a local backend handles scheduling and auto-posting as long as the machine is on; [here's the full automation setup](complete-guide-automating-a-wordpress-blog-from-scratch.md).
 
 ---
 
-*See the desktop model in action: [SEO Content Architect](https://content-architect.ns5.club) — AI article generation, WordPress publishing, and social distribution in one Windows app, with your own API keys. [Free on the Microsoft Store](https://apps.microsoft.com/detail/9NL3GZLPH01Z).*
+*See the desktop model in action: [SEO Content Architect](https://diflowrin.com/seo-content-architect/) — AI article generation, WordPress publishing, and social distribution in one Windows app, with your own API keys. [Free on the Microsoft Store](https://apps.microsoft.com/detail/9NL3GZLPH01Z).*

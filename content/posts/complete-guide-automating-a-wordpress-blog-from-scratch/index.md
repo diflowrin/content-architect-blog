@@ -32,7 +32,7 @@ This is the **BYOK (bring your own key)** model: you pay your AI provider direct
 
 ## Step 1: Connect WordPress (5 minutes)
 
-In [SEO Content Architect](https://content-architect.ns5.club), add your site URL, username, and application password. The app talks to WordPress through the standard REST API — no theme edits, no heavyweight plugin that slows your site down. For meta title and meta description to be written directly into Yoast/SEOPress/SiteSEO fields, install the free bundled *SEO Architect Helper* plugin (it has a one-click connection test).
+In [SEO Content Architect](https://diflowrin.com/seo-content-architect/), add your site URL, username, and application password. The app talks to WordPress through the standard REST API — no theme edits, no heavyweight plugin that slows your site down. For meta title and meta description to be written directly into Yoast/SEOPress/SiteSEO fields, install the free bundled *SEO Architect Helper* plugin (it has a one-click connection test).
 
 Multi-site tip: agencies and niche-site builders can connect unlimited sites and switch targets per article or per automation rule.
 

@@ -78,11 +78,11 @@ Yes — providers show per-request costs, and you can set hard spending limits o
 It's a one-time, 3-minute copy-paste per provider. Modern BYOK apps have a settings field and a test button; that's the whole setup — see the [10-minute walkthrough](publish-first-ai-article-to-wordpress-in-10-minutes.md).
 
 **What about the software cost itself?**
-BYOK apps charge for the software, not the AI. In [SEO Content Architect](https://content-architect.ns5.club), article generation is **free forever** with your keys; Premium adds publishing automation, Bulk Engine, Social Studio, and the Distribution Hub.
+BYOK apps charge for the software, not the AI. In [SEO Content Architect](https://diflowrin.com/seo-content-architect/), article generation is **free forever** with your keys; Premium adds publishing automation, Bulk Engine, Social Studio, and the Distribution Hub.
 
 **Do open models via OpenRouter cut quality?**
 For standard informational articles, surprisingly little — and at $0.003–0.01 per article, testing them on your niche costs essentially nothing.
 
 ---
 
-*Stop paying per word: [SEO Content Architect](https://content-architect.ns5.club) is a Windows desktop app where you generate unlimited SEO articles with your own Gemini, GPT, Claude, or OpenRouter keys. [Download free from the Microsoft Store](https://apps.microsoft.com/detail/9NL3GZLPH01Z).*
+*Stop paying per word: [SEO Content Architect](https://diflowrin.com/seo-content-architect/) is a Windows desktop app where you generate unlimited SEO articles with your own Gemini, GPT, Claude, or OpenRouter keys. [Download free from the Microsoft Store](https://apps.microsoft.com/detail/9NL3GZLPH01Z).*
