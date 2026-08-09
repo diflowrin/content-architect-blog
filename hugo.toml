@@ -22,6 +22,13 @@ images = []
 [params.author]
 name = "SEO Content Architect"
 
+[params.app]
+# Fără override, tema trimite `application-name = "My cool site"`.
+title = "SEO Content Architect Blog"
+# Nu există favicon.ico / apple-touch-icon / site.webmanifest în static/, iar
+# tema le linka de la rădăcina domeniului (în afara subcăii) — șase referințe 404.
+noFavicon = true
+
 [params.header]
 [params.header.title]
 name = "SEO Content Architect"
@@ -38,7 +45,9 @@ since = 2026
 license = ""
 
 [params.section]
-paginate = 10
+# Toate articolele încap pe /posts/ într-o singură pagină; pagina 2 era o arhivă
+# subțire (un singur articol), canonicalizată oricum către /posts/.
+paginate = 20
 dateFormat = "Jan 02"
 rss = 10
 
@@ -63,9 +72,14 @@ enable = true
 paginate = 6
 
 [params.social]
-Website = "https://diflowrin.com/seo-content-architect/"
-Github = "https://github.com/diflowrin"
-RSS = true
+# Doar ID-ul: tema prefixează cu https://github.com/
+Github = "diflowrin"
+
+# Tema livrează `url = "/index.xml"`, iar `relLangURL` nu prefixează căile care
+# încep cu `/` — pe un baseURL cu subcale ieșea un link mort către
+# https://diflowrin.github.io/index.xml. Calea relativă primește prefixul corect.
+[params.social.RSS]
+url = "index.xml"
 
 [params.page]
 lightgallery = true

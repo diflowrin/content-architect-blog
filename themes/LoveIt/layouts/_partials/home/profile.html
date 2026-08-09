@@ -94,8 +94,9 @@
     {{- end -}}
 
     {{- with $profile.disclaimer -}}
-        <h3 class="home-disclaimer">
+        {{- /* h2, nu h3: după `home-title` (h1) un h3 sare peste un nivel. */ -}}
+        <h2 class="home-disclaimer">
             {{- . | safeHTML -}}
-        </h3>
+        </h2>
     {{- end -}}
 </div>

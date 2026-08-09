@@ -1,6 +1,6 @@
 ---
 title: "New Article, Bulk Engine or Auto Posting: Every Content Generation Option Explained"
-seoTitle: "Content Generation in SEO Content Architect: Every Option Explained"
+seoTitle: "Content Generation Options in SEO Content Architect"
 date: 2026-08-06T03:00:00+03:00
 description: "New Article, Bulk Engine, Auto Posting and the Studio Editor — what every content generation setting does, what it costs, and which engine to use when."
 tags: ["AI Content", "Automation", "WordPress"]
