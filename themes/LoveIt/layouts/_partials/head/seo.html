@@ -82,6 +82,15 @@
             {{- with .Resources.GetMatch "featured-image" -}}
                 {{- $images = slice "featured-image" -}}
             {{- end -}}
+            {{- /* Articolele noastre declară `featuredImage: "feature.webp"` în front
+                   matter, nu o resursă numită `featured-image.*`, deci niciuna dintre
+                   potrivirile de mai sus nu prindea și BlogPosting ieșea fără `image`
+                   — deși og:image, care citește chiar acest parametru, era corect. */ -}}
+            {{- if not $images -}}
+                {{- with $params.featuredimagepreview | default $params.featuredimage -}}
+                    {{- $images = slice . -}}
+                {{- end -}}
+            {{- end -}}
         {{- end -}}
         {{- with .Site.Params.seo.image -}}
             {{- $images = $images | default (slice .) -}}

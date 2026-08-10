@@ -107,6 +107,13 @@ Telegram = true
 [params.page.comment]
 enable = false
 
+# Tema livrează `params.page.seo.publisher.name = ""`, iar în head/seo.html acel
+# gol se merge-uiește PESTE numele autorului — fiecare articol ieșea cu
+# "publisher": {"@type": "Organization", "name": ""}, adică un publisher invalid
+# în datele structurate. Îl declarăm explicit aici.
+[params.page.seo.publisher]
+name = "SEO Content Architect"
+
 [params.typeit]
 speed = 100
 pauseDelay = 1500
