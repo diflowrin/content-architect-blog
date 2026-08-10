@@ -69,7 +69,10 @@ disclaimer = "Build your own automated blog with <a href=\"https://diflowrin.com
 
 [params.home.posts]
 enable = true
-paginate = 6
+# Paginarea de 6 genera /page/2/ și /page/3/: pagini fără titlu sau descriere
+# proprie (Hugo le canonicalizează oricum către „/"), pe care Bing le raporta
+# drept meta descriptions duplicate. Aceeași soluție ca la [params.section].
+paginate = 20
 
 [params.social]
 # Doar ID-ul: tema prefixează cu https://github.com/
@@ -140,6 +143,12 @@ post = ""
 name = "Website"
 url = "https://diflowrin.com/seo-content-architect/"
 weight = 3
+
+# Niciun articol nu folosește `categories`, dar Hugo genera oricum /categories/:
+# o arhivă goală, cu descriere proprie și og:description luat din descrierea
+# site-ului. Declarând doar `tag`, pagina dispare cu totul.
+[taxonomies]
+tag = "tags"
 
 [markup]
 [markup.goldmark]

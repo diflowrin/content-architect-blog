@@ -1,5 +1,6 @@
 ---
 title: "Automation"
+description: "Guides to running a blog on autopilot: sourcing topics, generating drafts and images, scheduling WordPress posts, and distributing them to social channels."
 ---
 
 **Content automation** is the practice of letting software handle the repetitive parts of publishing — sourcing topics, writing and illustrating articles, scheduling posts, and distributing them to social platforms — so you can focus on strategy and quality control instead of manual busywork.
